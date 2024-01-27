@@ -1,2 +1,2 @@
 # NDOrder
-The dataset OLQT is available.
+The dataset OLQT is now available.
